@@ -10,7 +10,7 @@ Pandas
 
 The current Final.csv file is output of feed.py where on finding the Company's name the URL of that article and the company name from SAMPLE_DATA.csv will be added but since nothing was found the Final.csv is empty. The running of the script for this scenario is demonstrated in Demo_Project.
 
-For proper implementation demonstration output_africa.csv file contains the output of feed.py where on finding the keyword 'Africa' the URL of that articles (found from the 1st feed) and the company name from SAMPLE_DATA.csv (rev_rest_africa.csv) is added.The running of the script for this scenario is demonstrated in Demo_Projec_Africa.
+For proper implementation demonstration output_africa.csv file contains the output of feed.py where on finding the keyword 'Bank' the URL of that articles (found from the 1st feed) and the kryword 'Bank' is added.The running of the script for this scenario is demonstrated in Demo_Projec_Africa.
 
 Proper comments in feed.py have been provided wherever felt necesssary.
 
